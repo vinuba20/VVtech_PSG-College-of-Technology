@@ -20,11 +20,9 @@
 
 | \*\*Incubator\*\* | \[Incubator name, or "N/A"] |
 
-| \*\*Team Leader\*\* | Vinuba K |
+| \*\*Team Leader\*\* | Vinuba K (Roll No: 24PT37) |
 
-| \*\*Member 2\*\* | \[Name, department, year] |
-
-| \*\*Member 3\*\* | \[Name, department, year] |
+| \*\*Member 2\*\* | Vijay Adhithyan T (Roll No: 24PC39) |
 
 
 
@@ -78,7 +76,7 @@ A doctor dashboard shows the live glucose trend, the risk score, an alert level,
 
 | Evaluation | scikit-learn |
 
-| Explainability | XGBoost SHAP-style feature contributions |
+| Explainability | XGBoost per-prediction feature contributions (SHAP-style) |
 
 | Dashboard | Streamlit, Plotly |
 

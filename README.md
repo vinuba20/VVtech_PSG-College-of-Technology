@@ -18,7 +18,7 @@
 
 | \*\*College\*\* | PSG College of Technology, Coimbatore |
 
-| \*\*Incubator\*\* | \[Incubator name, or "N/A"] |
+| \*\*Incubator\*\* | \N/A |
 
 | \*\*Team Leader\*\* | Vinuba K (Roll No: 24PT37) |
 
@@ -140,7 +140,7 @@ Per the challenge sandbox rules, \*\*no real patient data is used.\*\* Both stre
 
 
 
-\*\*Video link (unlisted YouTube, 20+ minutes):\*\* \[PASTE YOUR LINK HERE]
+\*\*Video link (unlisted YouTube, 20+ minutes):\*\* \https://youtu.be/0nzoYPiqgog
 
 
 
